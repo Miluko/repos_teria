@@ -33,7 +33,8 @@ public class CCuenta {
         cuenta=cue;
         saldo=sal;
     }
-
+    
+    
     /** método que devuelve el saldo disponible en la cuenta
      * 
      * @return  devuelve el saldo de la cuenta
